@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VSCode
+.vscode/
+
+# Model weights and caches
+*.pt
+*.weights
+*.onnx
+
+# Video outputs and generated media
+*.mp4
+*.avi
+*.mov
+result.mp4
+
+# Logs
+*.log
+
+# Python virtualenv
+/.venv
